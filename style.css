@@ -1,0 +1,65 @@
+.image{
+    text-align: center;
+}
+img{
+    width: 700px;
+    height:400px;
+    border-top-left-radius:20px ;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.first-part{
+    margin-left: 325px;
+}
+
+h1{
+    color: red;
+    font-weight: 600;
+}
+
+p{
+    font-weight: 200;
+}
+
+.background{
+    background: aqua;
+    margin-left: 325px;
+    width: 700px;
+    padding-left: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-top-left-radius:20px ;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+span{
+    color: red;
+}
+
+li span{
+    font-size: 20px;
+}
+
+h3{
+    padding-left: 15px;
+    font-size: 25px;
+}
+
+#ingredients{
+    border-bottom: 2px solid aqua;
+    margin-left: 325px;
+}
+
+h2{
+    color: red;
+    font-size:25px;
+}
+
+.instructions{
+    margin-left: 325px;
+    width: 700px
+}
