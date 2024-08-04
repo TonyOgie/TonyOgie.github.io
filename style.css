@@ -67,9 +67,10 @@ h2{
 @media only screen and (
     max-width: 480px
 ) {
-    body{
-        font-size: 12px;
+    .background{
+       /* font-size: 12px;
         display: flex;
-        flex-direction: row;
+        flex-direction: row;*/
+        background-color: black;
     }
 }
