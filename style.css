@@ -65,7 +65,7 @@ h2{
 }
 
 @media only screen and (
-    min-width: 480px) and (max-width: 600px) {
+    min-height: 480px) and (max-height: 600px), resolu {
     .background{
        /* font-size: 12px;
         display: flex;
